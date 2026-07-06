@@ -64,7 +64,7 @@ Python, numpy, pandas, scipy, scikit-learn, matplotlib
 
 ## Real-time dashboard
 
-![Dashboard screenshot](screenshots/dashboard.png)
+![Dashboard screenshot](actual vs predicted scatter plot.png)
 
 ## Anomaly detection results
 
