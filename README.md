@@ -63,12 +63,13 @@ PASS / FAIL verdict + audit log (CSV with timestamp)
 Python, numpy, pandas, scipy, scikit-learn, matplotlib
 
 ## Real-time dashboard
+![Real-time Dashboard](real-time%20dashboard.png)
 
 ## Anomaly detection results
+![Anomaly Score Bar Chart](anomaly%20score%20bar%20chart.png)
 
 ## Quantitative prediction accuracy
-
- ## all the photos are uploded in repo
+![Actual vs Predicted Scatter Plot](actual%20vs%20predicted%20scatter%20plot.png)
 
 ## Hardware (pending)
 
