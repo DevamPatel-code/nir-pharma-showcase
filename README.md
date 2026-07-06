@@ -72,7 +72,7 @@ Python, numpy, pandas, scipy, scikit-learn, matplotlib
 
 ## Quantitative prediction accuracy
 
-![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+![Actual vs Predicted]([screenshots/actual_vs_predicted.png](https://github.com/DevamPatel-code/nir-pharma-showcase/blob/a8bc16fb41898e4c0203e50723a9600e8cb02285/actual%20vs%20predicted%20scatter%20plot.png))
 
 ## Hardware (pending)
 
